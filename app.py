@@ -22,8 +22,8 @@ from linebot.models import (
 app = Flask(__name__)
 
 
-CHANNEL_ACCESS_TOKEN = 'gwE+jLiH03jD/io4MlUQJJZVZYjFdCqNJDv2xSjrMRG4bgQDR8XsCOMftVfAes0d0PIbmiiNjp5HF8uOxxsLye0X/b2C25ay/1VRhqBTiVOUnFJqgwz0JBjCayTXKtuCoYFpT8sn5JJIUFIZzHs6owdB04t89/1O/w1cDnyilFU='
-CHANNEL_SECRET = 'd7fdcc1cc5a429fcd30df6a166626e2d'
+CHANNEL_ACCESS_TOKEN = 'ABCDEFG'
+CHANNEL_SECRET = '1234567'
 
 
 line_bot_api = LineBotApi(CHANNEL_ACCESS_TOKEN)
